@@ -1,0 +1,21 @@
+# Ignore the binary
+httprelay
+
+# Ignore the Dockerfile
+Dockerfile
+
+# Ignore the git directory
+.git
+.gitignore
+.hithub
+
+# Ignore go specific files
+*.out
+
+# Ignore IDE specific files
+.vscode
+.idea
+
+# Ignore system files
+.DS_Store
+Thumbs.db
